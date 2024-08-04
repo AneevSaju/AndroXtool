@@ -27,4 +27,4 @@ Follow these simple steps to get started with AndroXtool:
 
 <h2 align="center">🛡️ License</h2>
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/AneevSaju/AndroXtool/blob/main/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/AneevSaju/AndroXtool/blob/main/LICENSE) file for details.
